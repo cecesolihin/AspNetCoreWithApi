@@ -1,0 +1,11 @@
+https://www.c-sharpcorner.com/article/asp-net-core-6-web-api-crud-with-entity-framework/
+
+Microsoft.EntityFrameworkcore.InMemory
+Microsoft.EntityFrameworkcore.sql server
+Microsoft.EntityFrameworkcore.Tools
+
+
+Install-Package Dapper
+Install-Package Microsoft.Extensions.Configuration
+Install-Package Microsoft.Extensions.DependencyInjection.Abstractions
+Install-Package System.Data.SqlClient
